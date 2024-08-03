@@ -1,0 +1,105 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+
+}
+.pimg1{
+    background-image: url(yt.jpeg);
+    min-height: 150%;
+    
+    
+}
+.pimg2{
+    background-image: url(muyo.jpeg);
+    min-height: 150%;
+}
+.pimg3{
+    background-image: url(rtyu.jpeg);
+    min-height: 150%;
+}
+.pimg4{
+    background-image: url(image12.jpeg);
+    min-height: 150%;
+}
+.pimg5{
+    
+        background-image: url(image12.jpeg);
+        min-height: 150%;
+}
+.pimg6
+{
+    background-image: url(lake.jpeg);
+    min-height: 150%;
+}
+.pimg7
+{
+    background-image: url(yuiop.webp);
+    min-height: 150%;
+}
+.pimg8
+{
+    background-image: url(river.jpeg);
+    min-height: 150%;
+}
+.pimg9
+{
+    background-image: url(mountain.jpeg);
+    min-height: 150%;
+}
+.pimg10
+{
+    background-image: url(tree.jpeg);
+    min-height: 150%;
+}
+.pimg11
+{
+    background-image: url(cavee..jpeg);
+    min-height: 150%;
+}
+.pimg12
+{
+    background-image: url(imag.jpeg);
+    min-height: 150%;
+}
+
+.pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8,.pimg9,.pimg10,.pimg11,.pimg12{
+    position: relative;
+    background-position: center;
+    background-size:no-repeat;
+    background-size: cover;
+
+}
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform:uppercase ;
+
+}
+.textBg{
+    background-color: #000;
+    color: white;
+    padding: 20px;
+}
+.section{
+    padding: 50px 80px;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 900;
+    text-align: center;
+}
+.section-light{
+    background-color: #282e34;
+    color: #ddd;
+
+}
+    
